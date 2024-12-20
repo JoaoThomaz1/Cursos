@@ -17,9 +17,9 @@ Curso: Manutenção em Computadores. (2020, 60h)
 
 Curso: Manutenção em Notebooks. (2020, 40h) 
 
-Curso: Lógica de Programação. (2018, 69h)
+Curso: Alg. e Lógica de Programação. SG Sistemas (2018, 69h)
 
-Curso: Lógica de Programação. (2022, 75h)  
+Curso: Alg. e Lógica de Programação. SG Sistemas (2022, 75h)  
 
 Curso: Alg. e Lógica de Programação. (2023,40h)  
 
@@ -44,6 +44,8 @@ Curso: HTML e CSS: trabalhando com responsividade e publicação de projetos - A
 Curso: HTML e CSS: cabeçalho, footer e variáveis CSS - Alura. (2024, 6h)
 
 Curso: Lógica de programação: explore funções e listas - Alura. (2024, 6h)
+
+Curso: Lógica de Programação. SG Sistemas (2024, 80h)
 
 Curso Assistente Administrativo: Cebrac/ Maringá: 
 ```
